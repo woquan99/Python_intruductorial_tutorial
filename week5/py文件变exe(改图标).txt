@@ -1,0 +1,5 @@
+1.cmd打开文件所在位置，如F:
+2.把ico和py文件放入F区
+3.pyinstaller -i XX.ico -F xx.py
+4.删除除dist的其他文件
+5.打开dist找到我们需要的.exe文件，大功告成！
